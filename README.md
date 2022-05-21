@@ -1,4 +1,4 @@
-### EX NO : 07 
+### EX NO : 08
 ### DATE  : 13-05-2022
 # <p align="center"> XOR GATE IMPLEMENTATION </p>
 ## Aim:
