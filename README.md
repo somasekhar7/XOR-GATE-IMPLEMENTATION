@@ -62,7 +62,7 @@ print(model.predict(training_data).round())
 
 
 ## Output:
-![Screenshot (4)](https://user-images.githubusercontent.com/78737336/169644624-20d0115f-97e1-42aa-9e55-c8cef0379c18.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/102689666/169656020-5f5a2808-6c9e-45e0-ae7a-2bd83c0dcdbd.png)
 
 
 
