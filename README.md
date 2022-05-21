@@ -29,11 +29,12 @@ The information of a neural network is stored in the interconnections between th
 
 ## Program:
 
-Program to implement XOR Logic Gate.
+/*Program to implement XOR Logic Gate.
 
 Developed by   :DARISI VENKATA VEERA SOMASEKHAR
 
 RegisterNumber : 212219040024
+*/
 
 ```PYTHON3
 
